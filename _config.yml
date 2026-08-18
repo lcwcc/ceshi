@@ -1,0 +1,6 @@
+title: 前端工具测评博客、健身资源站
+description: 前端工具测评博客、健身资源站
+theme: minima
+plugins:
+  - jekyll-sitemap
+permalink: /posts/:slug/
